@@ -1,0 +1,118 @@
+﻿@page
+@model AceJobAgency.Pages.Users.RegisterModel
+@{
+    ViewData["Title"] = "Registration";
+}
+
+<h1 class="display-4">@ViewData["Title"]</h1>
+
+<form class="mt-3" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="All" class="text-danger"></div>
+
+    <div class="row">
+        <div class="col-md-8">
+            <div class="row mb-3">
+                <label class="col-sm-3 col-form-label" asp-for="RModel.Username"></label>
+                <div class="col-sm-9">
+                    <input class="form-control" asp-for="RModel.Username" />
+                    <span asp-validation-for="RModel.Username" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-3 col-form-label" asp-for="RModel.FirstName"></label>
+                <div class="col-sm-9">
+                    <input class="form-control" asp-for="RModel.FirstName" />
+                    <span asp-validation-for="RModel.FirstName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-3 col-form-label" asp-for="RModel.LastName"></label>
+                <div class="col-sm-9">
+                    <input class="form-control" asp-for="RModel.LastName" />
+                    <span asp-validation-for="RModel.LastName" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-3 col-form-label" asp-for="RModel.Gender"></label>
+                <div class="col-sm-9 d-flex align-items-center">
+                    <div class="form-check form-check-inline">
+                        @Html.RadioButtonFor(m => m.RModel.Gender, "M", new {@class = "form-check-input"})
+                        <label class="form-check-label">Male</label>
+                    </div>
+                    <div class="form-check form-check-inline">
+                        @Html.RadioButtonFor(m => m.RModel.Gender, "F", new {@class = "form-check-input"})
+                        <label class="form-check-label">Female</label>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-3 col-form-label" asp-for="RModel.NRIC"></label>
+                <div class="col-sm-9">
+                    <input class="form-control" asp-for="RModel.NRIC" />
+                    <span asp-validation-for="RModel.NRIC" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-3 col-form-label" asp-for="RModel.Email"></label>
+                <div class="col-sm-9">
+                    <input class="form-control" asp-for="RModel.Email" />
+                    <span asp-validation-for="RModel.Email" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-3 col-form-label" asp-for="RModel.Password"></label>
+                <div class="col-sm-9">
+                    <input class="form-control" asp-for="RModel.Password" />
+                    <span asp-validation-for="RModel.Password" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-3 col-form-label" asp-for="RModel.ConfirmPassword"></label>
+                <div class="col-sm-9">
+                    <input class="form-control" asp-for="RModel.ConfirmPassword" />
+                    <span asp-validation-for="RModel.ConfirmPassword" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-3 col-form-label" asp-for="RModel.BirthDate"></label>
+                <div class="col-sm-9">
+                    <input class="form-control" type="date" asp-for="RModel.BirthDate" />
+                    <span asp-validation-for="RModel.BirthDate" class="text-danger"></span>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <label class="col-sm-3 col-form-label" asp-for="RModel.WhoamI"></label>
+                <div class="col-sm-9">
+                    <input class="form-control" asp-for="RModel.WhoamI" />
+                    <span asp-validation-for="RModel.WhoamI" class="text-danger"></span>
+                </div>
+            </div>
+            
+        </div>
+
+        <div class="col-md-4">
+
+            <div class="mb-3">
+                <input type="file" accept=".pdf,.docx" asp-for="Resume" class="form-control" />
+                <span asp-validation-for="Resume" class="text-danger"></span>
+            </div>
+            <img class="rounded-circle" style="height:300px;width:300px;object-fit:cover" src="/uploads/resume.png" />
+
+        </div>
+
+    </div>
+
+    <div>
+        <input type="submit" value="Register" class="btn btn-primary" />
+        <a class="btn btn-secondary ms-2" href="/" >Cancel</a>
+    </div>
+</form>

@@ -1,0 +1,112 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = AceJobAgency
+build_property.RootNamespace = AceJobAgency
+build_property.ProjectDir = C:\Users\tehsi\OneDrive\Desktop\NYP Stuff\IT2163 Application Security\Practical Assignment\AceJobAgency\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tehsi\OneDrive\Desktop\NYP Stuff\IT2163 Application Security\Practical Assignment\AceJobAgency
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/400.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDQwMC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/401.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDQwMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/402.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDQwMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/403.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDQwMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/405.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDQwNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/406.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDQwNi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/407.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDQwNy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/408.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDQwOC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDUwMC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/501.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDUwMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/502.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDUwMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/ErrorCode/504.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3JDb2RlXDUwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/Users/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/Users/OTP.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcT1RQLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/Users/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXNlcnNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tehsi/OneDrive/Desktop/NYP Stuff/IT2163 Application Security/Practical Assignment/AceJobAgency/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-nh1h5kas8d
